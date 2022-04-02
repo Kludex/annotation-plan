@@ -1,0 +1,7 @@
+typer==0.4.1
+rich==12.0.1
+pytablewriter==0.64.2
+
+black
+isort
+flake8
